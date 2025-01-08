@@ -41,5 +41,5 @@ startUdpServer(async (query) => {
     // return createResponse(query, [createTxtAnswer(question,'Hello World!')]);
 
 },
-{port: 8000}
+{port: process.env.PORT}
 );
