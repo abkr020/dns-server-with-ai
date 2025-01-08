@@ -21,7 +21,7 @@ startUdpServer(async (query) => {
     // console.log("question is - ",query.questions[0]);
     const q = query.questions[0];
     console.log("last call question is",q);
-    return createResponse(query, [createTxtAnswer(q,'hell form abkr020')]);
+    // return createResponse(query, [createTxtAnswer(q,'hell form abkr020')]);
 
 
 
