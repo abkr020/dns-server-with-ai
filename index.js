@@ -10,7 +10,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-8b" });
 
 // const { GoogleGenerativeAI } = require("@google/generative-ai");
 // const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-
+console.log("start");
 startUdpServer(async (query) => {
 
     // console.log(query);
