@@ -1,0 +1,19 @@
+{
+  "name": "my-first-dns-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.5"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "denamed": "^2.0.4",
+    "dotenv": "^16.4.7"
+  }
+}
