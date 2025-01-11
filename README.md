@@ -1,7 +1,8 @@
 
 # dns server toy
 
-## crearted a dns server and added the ai with it to answer small questions
+## aobut the project
+crearted a dns server and added the ai with it to answer small questions
 
 very very basic dns server
 created a dns server with denamed and added an ai and instead of returning the ip address i made it to return the answer of the question requested by the user 
